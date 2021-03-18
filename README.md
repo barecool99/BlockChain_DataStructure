@@ -10,3 +10,7 @@ First Block is called "Genesis Block", idk why they make it sound scifi fancy, j
 
 Block interlink each other and even minor changes affect whole block hence keeping blockchain pure(intergrity innit)
 
+For my understanding I doing person A sent to person B as transactions but in real life there will be transcation objects instead
+
+This is basic of it, we don't have networking and mining stack behind it yet :)
+
