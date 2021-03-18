@@ -9,3 +9,4 @@ To create unique digital fingerprint: transcation + previous blocks fingerprint
 First Block is called "Genesis Block", idk why they make it sound scifi fancy, just call it first block bro
 
 Block interlink each other and even minor changes affect whole block hence keeping blockchain pure(intergrity innit)
+
